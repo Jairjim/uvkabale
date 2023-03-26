@@ -64,7 +64,7 @@
     </nav>
 
     <div class="container-fluid noticias">
-        <p>¡Lo mas relevante hoy!</p>
+        <p>¡Lo más relevante en Twitter!</p>
         <div class="tweet">
             <div class="container-fluid justify-content-center gap-5 container-tweet">
                 <div class="card" style="width: 18rem;">
