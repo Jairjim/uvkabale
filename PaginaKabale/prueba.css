@@ -1,0 +1,190 @@
+div.nav.nav-tabs{
+  align-items: center;
+  justify-content: center;
+}
+div.nav.nav-tabs{
+  border-radius: 10px;
+  background-color: #19516f;
+}
+div.nav.nav-tabs button{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* clear
+clc
+if exist("mercancia.m") != 0
+    load mercancia.m p
+else
+    p = {1,"Camisa" ,"roja", "m", 450, 3; 2, "Pantalon","azul", "m", 900, 5};
+    endif
+    disp("***************************************")
+    disp("***************************************")
+    disp("***************************************")
+    disp("*                                                                                                                 *")
+    disp("*                                                 QEBABY SHOP                                                     *")
+    disp("*                              -todo lo que necesitas para ser un hombre de verdad-                               *")
+    disp("*                                                                                                                 *")
+    disp("***************************************")
+    disp("***************************************")
+    disp("***************************************")
+    disp("                                         BIENVENIDO AL INVENTARIO GENERAL")
+    disp("                                                  ¿QUE DESEA HACER?")
+
+select=0;
+
+while select !=5;
+    disp("\n1.- INGRESAR MERCANCIA")
+    disp("2.- VER PIEZAS EXISTENTES")
+    disp("3.- VENDER")
+    disp("4.- GRAFICA DE LAS VENTAS")
+    select = input("selecciona la opcion deseada: ");
+    switch select
+        case 1
+            disp("\n------------- INGRESAR MERCANCIA -------------")
+            disp("¿Que deseas ingresar?")
+            disp("1. Camisa")
+            disp("2. Pantalon")
+            disp("3. Zapatos")
+            me = input("Opcion: ");
+            switch me
+                case 1
+                    c=size(p)(1)+1;
+                    p{c,1}=1; 
+                    p{c,2}="Camisa";
+                    p{c,3}=input("Color: \t", "s");
+                    p{c,4}=input("Talla: \t", "s");
+                    p{c,5}=input("Precio: \t");
+                    p{c,6}=input("Cantidad: \t");
+                    save mercancia.m p;
+                    disp("\n¡¡El articulo fue agregado correctamente!!")
+                case 2
+                    c=size(p)(1)+1;
+                    p{c,1}=2;
+                    p{c,2}="Pantalon";
+                    p{c,3}=input("Color: \t", "s");
+                    p{c,4}=input("Talla: \t", "s");
+                    p{c,5}=input("Precio: \t");
+                    p{c,6}=input("Cantidad: \t");
+                    save mercancia.m p;
+                    disp("\n¡¡El articulo fue agregado correctamente!!")
+                case 3
+                    c=size(p)(1)+1;
+                    p{c,1}=3;
+                    p{c,2}="Zapatos";
+                    p{c,3}=input("Color: \t", "s");
+                    p{c,4}=input("Talla: \t", "s");
+                    p{c,5}=input("Precio: \t");
+                    p{c,6}=input("Cantidad: \t");
+                    save mercancia.m p;
+                    disp("\n¡¡El articulo fue agregado correctamente!!")
+                otherwise
+                    disp("opcion invalida")
+                    endswitch
+                    
+        case 2
+            t = 0;
+            printf("\n----------------------------- CAMISAS ---------------------------------|\n")
+            printf("-----------------------------------------------------------------------|\n")
+            printf("|\t Color \t    |  \t Talla \t  |  \t Precio \t\t  |  Cantidad \t\t   |\n")
+            printf("-----------------------------------------------------------------------|\n")
+            for i=1:size(p)(1)
+                if cell2mat(p(i,1))==1
+                    printf("|\t%s\t    |\t\t%s\t   |\t\t%i\t         |\t\t%i\t          |\n", cell2mat(p(i,3)), cell2mat(p(i,4)), cell2mat(p(i,5)), cell2mat(p(i,6)))
+                    t = t + cell2mat(p(i,5));
+                endif
+            endfor
+            printf("la cantidad de camisas es: %i\n", t)
+            t=0;
+            printf("\n------------------------------------------------------------------------|\n")
+            printf("---------------------------- PANTALONES -------------------------------|\n")
+            printf("-----------------------------------------------------------------------|\n")
+            printf("|\t Color \t    |  \t Talla \t  |  \t Precio \t\t  |  Cantidad \t\t   |\n")
+            printf("-----------------------------------------------------------------------|\n")
+            for k=1:size(p)(1)
+                if cell2mat(p(k,1))==2
+                    printf("|\t%s\t    |\t\t%s\t   |\t\t%i\t         |\t\t%i\t          |\n", cell2mat(p(k,3)), cell2mat(p(k,4)), cell2mat(p(k,5)), cell2mat(p(k,6)))
+                    t = t + cell2mat(p(k,5));
+                endif
+            endfor
+            printf("la cantidad de pantalones es: %i\n", t)
+            printf("\n------------------------------------------------------------------------|\n")
+            t=0;
+            printf("------------------------------ ZAPATOS --------------------------------|\n")
+            printf("-----------------------------------------------------------------------|\n")
+            printf("|\t Color \t    |  \t Talla \t  |  \t Precio \t\t  |  Cantidad \t\t   |\n")
+            printf("-----------------------------------------------------------------------|\n")
+            for j=1:size(p)(1)
+                if cell2mat(p(j,1))==3
+                    printf("|\t%s\t    |\t\t%s\t   |\t\t%i\t         |\t\t%i\t          |\n", cell2mat(p(j,3)), cell2mat(p(j,4)), cell2mat(p(j,5)), cell2mat(p(j,6)))
+                    t = t + cell2mat(p(i,5));
+                endif
+            endfor
+            printf("la cantidad de zapatos es: %i\n", t)
+            
+        case 3
+            printf("----------------------------- INVENTARIO ----------------------------------------------------------|\n")
+            printf("--------------------------------------------------------------------------------------------------|\n")
+            printf("|\tID\t|\ttipo\t|\tcolor\t|\ttalla\t|\tprecio\t\t|\tCantidad\t|\n")
+            printf("--------------------------------------------------------------------------------------------------|\n")
+            for rr=1:size(p)(1)
+                if cell2mat(p(rr,1))==1
+                    prod="camisa";
+                elseif cell2mat(p(rr,1))==2
+                    prod="pants";
+                elseif cell2mat(p(rr,1))==3
+                    prod="zapatos";
+                else
+                    disp("opcion invalida")
+                endif
+                printf("|\t%i\t|\t%s\t|\t%s\t|\t%s\t\t|\t%i\t\t\t|\t%i\t|\n", rr, prod, cell2mat(p(rr,3)), cell2mat(p(rr,4)), cell2mat(p(rr,5)), cell2mat(p(rr,6)))
+            endfor
+            x=input("selecciona el articulo que deseas vender: ");
+            if p{x,5} != 0
+                disp("--------------------------- VENTA ---------------------------\n")
+                printf("Para este articulo, solamente puedes vender: \t%i pz\n", cell2mat(p(x,6)))
+                cantidad = input("Cantidad a vender: ")
+                if cantidad <= cell2mat(p(x,5))
+                    disp("\t--------------------------- TICKET --------------------------- ")
+                    disp("|\tTipo\t   |\tColor\t   |\tTalla\t   |\tPrecio\t   |\Cantidad\t|\n")
+                    printf("|\t%s\t    |\t\t%s\t   |\t\t%s\t    |\t\t%i\t     |\t\t%i\t |\n", cell2mat(p(x,2)), cell2mat(p(x,3)), cell2mat(p(x,4)), cell2mat(p(x,5)), cantidad)
+                    printf("TOTAL A PAGAR: %i\n", cantidad*cell2mat(p(x,5)))
+                    save mercancia.m p;
+                endif
+            else
+                disp("¡¡¡No tienes existencias!!!")
+            endif
+        case 4
+
+
+endswitch
+endwhile */
