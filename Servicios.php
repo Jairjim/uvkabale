@@ -310,7 +310,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-004-SCFI-2006 </span>
+                    <span class="card__category "> NOM-004-SE-2021 </span>
                     <h3 class="card__title ">Etiquetado de Productos Textiles</h3>
                 </div>
             </article>
