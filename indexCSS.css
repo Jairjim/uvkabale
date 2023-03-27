@@ -11,13 +11,10 @@ section.demo {
     font-family: 'Courier New', Courier, monospace;
     background: url(aduana.png) no-repeat;
     background-size: cover;
+    opacity: 0.9;
     text-align: center;
     padding: 0 10% 0 10%;
     height: 100%;
-}
-
-#section01 {
-    background: url("aduana.png") center center /cover no-repeat;
 }
 
 section .row {
@@ -29,6 +26,7 @@ p.slogan {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.8cm;
     color: #193b68;
+    
 }
 
 p.slogan2 {
