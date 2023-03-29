@@ -9,7 +9,7 @@ body {
 
 section.demo {
     font-family: 'Courier New', Courier, monospace;
-    background: url(aduana.png) no-repeat;
+    background: url(portada.jpg) no-repeat center ;
     background-size: cover;
     opacity: 0.9;
     text-align: center;

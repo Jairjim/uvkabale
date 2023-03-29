@@ -132,7 +132,7 @@
                     garantías.
                 </p>
                 <h5 class="card-title">Dictamen de Cumplimiento</h5>
-                <p class="card-text">Trámite que le permite al importador el ingreso de sus productos a territorio nacional para etiquetarlo en su almacén o bodega, antes de su comercialización, demostrando cumplimiento con las normas oficiales mexicanas aplicables.</p>
+                <p class="card-text">Trámite que le permite al importador el ingreso de sus productos a territorio nacional para etiquetarlo un almacén general de depósito fiscal ,o en su domicilio particular antes de su comercialización, demostrando cumplimiento con las normas oficiales mexicanas aplicables.</p>
 
             </div>
         </div>
@@ -306,7 +306,7 @@
         <section class="cards ">
             <article class="card card--1 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -316,7 +316,7 @@
             </article>
             <article class="card card--2 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -326,7 +326,7 @@
             </article>
             <article class="card card--3 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -338,7 +338,7 @@
         <section class="cards ">
             <article class="card card--4 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -348,7 +348,7 @@
             </article>
             <article class="card card--5 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -358,7 +358,7 @@
             </article>
             <article class="card card--6 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -370,7 +370,7 @@
         <section class="cards ">
             <article class="card card--7 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -380,17 +380,17 @@
             </article>
             <article class="card card--8 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
                     <span class="card__category "> NOM-141-SSA1/SCFI-2012 </span>
-                    <h3 class="card__title ">Etiquetado de productos cosmeticos preenvasados</h3>
+                    <h3 class="card__title ">Etiquetado para productos cosmeticos preenvasados</h3>
                 </div>
             </article>
             <article class="card card--9 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -402,7 +402,7 @@
         <section class="cards ">
             <article class="card card--10 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
@@ -413,22 +413,12 @@
             </article>
             <article class="card card--11 ">
                 <div class="card__img "></div>
-                <a href="services.html " class="card_link ">
+                <a href="Servicios " class="card_link ">
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
                     <span class="card__category "> NOM-189-SSA1/SCFI-2018 </span>
                     <h3 class="card__title "> Etiquetado y envasado para productos de aseo de uso doméstico.</h3>
-                </div>
-            </article>
-            <article class="card card--12">
-                <div class="card__img"></div>
-                <a href="services.html" class="card_link">
-                    <div class="card__img--hover"></div>
-                </a>
-                <div class="card__info">
-                    <span class="card__category"> NOM-035-STPS-2018 </span>
-                    <h3 class="card__title"> Factores de Riesgo Psicosocial.</h3>
                 </div>
             </article>
         </section>
