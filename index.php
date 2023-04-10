@@ -33,7 +33,7 @@
 <body>
     <!-- Imagen de inicio -->
     <section class="demo">
-        <div class="row justify-content-end">
+        <!-- <div class="row justify-content-end">
             <div class="col-4">
                 <p class="slogan">
                     Unidad de Inspección
@@ -42,7 +42,7 @@
                     <p class="slogan2"> En Kabale etiquetamos tu tranquilidad </p>
                 </div>
             </div>
-        </div>
+        </div> -->
         <a class="scroll-button button" href="#noticias" id="noticias"> <i class=""><span></span></i></a>
     </section>
 
