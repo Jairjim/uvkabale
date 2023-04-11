@@ -190,6 +190,7 @@ nav .container .nav-item .contact:hover {
     color: #fff;
 }
 
+
 .servicess a {
     color: #000;
     font-family: 'Roboto Slab', serif;
@@ -199,7 +200,7 @@ nav .container .nav-item .contact:hover {
     background-color: rgba(14, 80, 39, 0.733);
 }
 
-.servicess a div {
+.servicess a p {
     margin-bottom: 25px;
 }
 
@@ -693,7 +694,7 @@ div.servicios-inspeccion .container div.txto {
     .card__category {
         font-family: 'Raleway', sans-serif;
         text-transform: uppercase;
-        font-size: 4px;
+        font-size: 10px;
         font-weight: 500;
         color: #868686;
         width: 150px;

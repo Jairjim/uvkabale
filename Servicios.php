@@ -92,27 +92,27 @@
         <div class="servicess">
             <a  onclick="eliminar1()">
                 <i class="fas fa-award"></i>
-                <div id="base"> Inspección </div>
+                <p id="base"> Inspección </p>
             </a>
             <a href="#base" onclick="eliminar2()">
                 <i class="fa-solid fa-tag"></i>
-                <div> Diseño y Evaluación de Etiquetado </div>
+                <p> Diseño y Evaluación <br>de Etiquetado </p>
             </a>
             <a href="#base" onclick="eliminar3()">
                 <i class="fa-solid fa-globe"></i>
-                <div> Tramites y Asesorías en Comercio Exterior </div>
+                <p> Tramites y Asesorías en Comercio Exterior </p>
             </a>
             <a href="#tiserve" onclick="eliminar4()">
                 <i class="fa-solid fa-truck-plane"></i>
-                <div> Logística de Distribución </div>
+                <p> Logística de Distribución </p>
             </a>
             <a href="#base" onclick="eliminar5()">
                 <i class="fa-solid fa-chalkboard-user"></i>
-                <div> Capacitación </div>
+                <p> Capacitación </p>
             </a>
             <a href="#base">
                 <i class="fa-solid fa-file"></i>
-                <div> Nuestras Certificaciones </div>
+                <p> Nuestras Certificaciones </p>
             </a>
         </div>
     </div>
