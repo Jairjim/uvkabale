@@ -184,7 +184,7 @@
                 <div class="card__header header2 "></div>
                 <div class="card_content ">
                     <p style="text-align:center; ">
-                        <a href="https://twitter.com/KabaleUi?t=AYX-oA3kvUYJiJ_hLvPbtA&s=08" target="_blank" role="button ">
+                        <a href="https://twitter.com/uikabale?t=tDOeqxfDXxZU8oLHLg_NkQ&s=09" target="_blank" role="button ">
                             <i class="bi bi-twitter "></i>
                         </a>
                         <a href="https://www.facebook.com/profile.php?id=100079046550116" target="_blank" role="button ">
@@ -256,7 +256,7 @@
 
         <!-- Copyright -->
         <div class="text-center text-dark p-3 " style="background-color: rgba(0, 0, 0, 0.2); ">
-            © 2022 Copyright:
+            © 2023 Copyright:
             <a class="text-dark " href="https://uvKabale.com/ "> uvKabale.com </a>
         </div>
         <!-- Copyright -->

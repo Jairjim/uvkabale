@@ -37,7 +37,7 @@
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://www.facebook.com/profile.php?id=100079046550116" role="button" data-mdb-ripple-color="dark" target="_blank">
                     <i class="bi bi-facebook"></i>
                 </a>
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://twitter.com/KabaleUi?t=AYX-oA3kvUYJiJ_hLvPbtA&s=08" role="button" data-mdb-ripple-color="dark" target="_blank">
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://twitter.com/uikabale?t=tDOeqxfDXxZU8oLHLg_NkQ&s=09" role="button" data-mdb-ripple-color="dark" target="_blank">
                     <i class="bi bi-twitter"></i>
                 </a>
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://www.instagram.com/uikabale/" role="button" data-mdb-ripple-color="dark" target="_blank">
@@ -310,7 +310,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-004-SE-2021 </span>
+                    <p class="card__category "> NOM-004-SE-2021 </p>
                     <h3 class="card__title ">Etiquetado de Productos Textiles</h3>
                 </div>
             </article>
@@ -320,7 +320,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-015-SCFI-2007 </span>
+                    <p class="card__category "> NOM-015-SCFI-2007 </p>
                     <h3 class="card__title ">Etiquetado de Juguetes</h3>
                 </div>
             </article>
@@ -330,7 +330,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-020-SCFI-1997 </span>
+                    <p class="card__category "> NOM-020-SCFI-1997 </p>
                     <h3 class="card__title ">Etiquetado de cueros y pieles</h3>
                 </div>
             </article>
@@ -342,7 +342,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-024-SCFI-2013 </span>
+                    <p class="card__category "> NOM-024-SCFI-2013 </p>
                     <h3 class="card__title ">Etiquetado de productos electrónicos, eléctricos y electrodomésticos.</h3>
                 </div>
             </article>
@@ -352,7 +352,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-050-SCFI-2004 </span>
+                    <p class="card__category "> NOM-050-SCFI-2004 </p>
                     <h3 class="card__title ">Etiquetado general de productos.</h3>
                 </div>
             </article>
@@ -362,7 +362,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-051-SCFI/SSA1-2010 </span>
+                    <p class="card__category "> NOM-051-SCFI/SSA1-2010 </p>
                     <h3 class="card__title "> Etiquetado de alimentos y bebidas no alcohólicas preenvasadas</h3>
                 </div>
             </article>
@@ -374,7 +374,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-116-SCFI-2018 </span>
+                    <p class="card__category "> NOM-116-SCFI-2018 </p>
                     <h3 class="card__title ">Aceites lubricantes para motores a gasolina y diésel</h3>
                 </div>
             </article>
@@ -384,7 +384,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-141-SSA1/SCFI-2012 </span>
+                    <p class="card__category "> NOM-141-SSA1/SCFI-2012 </p>
                     <h3 class="card__title ">Etiquetado para productos cosmeticos preenvasados</h3>
                 </div>
             </article>
@@ -394,7 +394,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-142-SSA1/SCFI-2014 </span>
+                    <p class="card__category "> NOM-142-SSA1/SCFI-2014 </p>
                     <h3 class="card__title "> Etiquetado de bebidas Alcohólicas</h3>
                 </div>
             </article>
@@ -406,7 +406,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-186-SSA1/SCFI-2013 </span>
+                    <p class="card__category "> NOM-186-SSA1/SCFI-2013 </p>
                     <h3 class="card__title "> Etiquetado de Cacao, chocolate y productos similares, y derivados del cacao
                     </h3>
                 </div>
@@ -417,7 +417,7 @@
                     <div class="card__img--hover "></div>
                 </a>
                 <div class="card__info ">
-                    <span class="card__category "> NOM-189-SSA1/SCFI-2018 </span>
+                    <p class="card__category "> NOM-189-SSA1/SCFI-2018 </p>
                     <h3 class="card__title "> Etiquetado y envasado para productos de aseo de uso doméstico.</h3>
                 </div>
             </article>
@@ -476,7 +476,7 @@
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1 " href="https://wa.me/message/ECFFKO55QMCEG1" role="button " data-mdb-ripple-color="dark ">
                     <i class="bi bi-whatsapp "></i>
                 </a>
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1 " target="_blank " href="https://twitter.com/KabaleUi?t=AYX-oA3kvUYJiJ_hLvPbtA&s=08 " role="button " data-mdb-ripple-color="dark ">
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1 " target="_blank " href="https://twitter.com/uikabale?t=tDOeqxfDXxZU8oLHLg_NkQ&s=09" role="button " data-mdb-ripple-color="dark ">
                     <i class="bi bi-twitter "></i>
                 </a>
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1 " href="https://www.instagram.com/uikabale/ " role="button " data-mdb-ripple-color="dark ">
@@ -496,8 +496,8 @@
 
         <!-- Copyright -->
         <div class="text-center text-dark p-3 " style="background-color: rgba(0, 0, 0, 0.2); ">
-            © 2022 Copyright:
-            <a class="text-dark " href="https://mdbootstrap.com/ "> uvKabale.com </a>
+            © 2023 Copyright:
+            <a class="text-dark " href="https://www.uvkabale.com/"> uvKabale.com </a>
         </div>
         <!-- Copyright -->
     </footer>
