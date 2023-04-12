@@ -286,6 +286,10 @@ div.certificaciones {
     align-items: center;
 }
 
+div.certificaciones.movil{
+    display: none;
+}
+
 div.certificaciones .row {
     font-family: "Raleway";
 }
@@ -625,7 +629,13 @@ div.servicios-inspeccion .container div.txto {
         color: #082c70;
         font-size: 30px;
     }
-    div.certificaciones {
+
+    div.certificaciones{
+        display: none;
+    }
+    div.certificaciones.movil{
+        justify-content: flex;
+        display: contents;
         position: relative;
         font-size: .95cm;
         margin-bottom: 30%;
@@ -641,10 +651,9 @@ div.servicios-inspeccion .container div.txto {
         font-size: .9cm;
     }
     .cards {
-        margin-top: 50px;
         width: 100%;
-        display: flex;
-        justify-content: center;
+        flex: 10px;
+        padding: 0px 30px 0px 30px;
     }
     .card__img {
         visibility: hidden;
@@ -669,11 +678,11 @@ div.servicios-inspeccion .container div.txto {
         top: 0;
     }
     .card {
-        margin-right: 20px;
+        margin: 0px 20px 0px 0px;
         transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
         background-color: #fff;
-        width: 90%;
-        height: 180px;
+        width: 45%;
+        height: 200px;
         position: relative;
         border-radius: 12px;
         overflow: hidden;
@@ -694,14 +703,14 @@ div.servicios-inspeccion .container div.txto {
     .card__category {
         margin-top: 50px;
         font-family: 'Raleway', sans-serif;
-        font-size: 5px;
+        font-size: 10px;
         color: #2a2a2a;
         width: 150px;
     }
     .card__title {
         margin-bottom: 10px;
         font-family: 'Roboto Slab', serif;
-        font-size: 6px;
+        font-size: 7px;
     }
     .card:hover .card__img--hover {
         height: 100%;

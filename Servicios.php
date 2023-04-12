@@ -424,6 +424,136 @@
         </section>
     </div>
 
+    <!--Certificaciones version mobil-->
+    <div class="container certificaciones movil">
+        <div class="row justify-content-center ">
+            Nuestras certificaciones
+        </div>
+        <section class="cards ">
+            <article class="card card--1 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-004-SE-2021 </p>
+                    <h3 class="card__title ">Etiquetado de Productos Textiles</h3>
+                </div>
+            </article>
+            <article class="card card--2 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-015-SCFI-2007 </p>
+                    <h3 class="card__title ">Etiquetado de Juguetes</h3>
+                </div>
+            </article>
+        </section>
+        <section class="cards ">
+            <article class="card card--3 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-020-SCFI-1997 </p>
+                    <h3 class="card__title ">Etiquetado de cueros y pieles</h3>
+                </div>
+            </article>
+            <article class="card card--4 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-024-SCFI-2013 </p>
+                    <h3 class="card__title ">Etiquetado de productos electrónicos, eléctricos y electrodomésticos.</h3>
+                </div>
+            </article>
+        </section>
+        <section class="cards ">
+            <article class="card card--5 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-050-SCFI-2004 </p>
+                    <h3 class="card__title ">Etiquetado general de productos.</h3>
+                </div>
+            </article>
+            <article class="card card--6 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-051-SCFI/SSA1-2010 </p>
+                    <h3 class="card__title "> Etiquetado de alimentos y bebidas no alcohólicas preenvasadas</h3>
+                </div>
+            </article>
+        </section>
+        <section class="cards ">
+            <article class="card card--7 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-116-SCFI-2018 </p>
+                    <h3 class="card__title ">Aceites lubricantes para motores a gasolina y diésel</h3>
+                </div>
+            </article>
+            <article class="card card--8 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-141-SSA1/SCFI-2012 </p>
+                    <h3 class="card__title ">Etiquetado para productos cosmeticos preenvasados</h3>
+                </div>
+            </article>
+        </section>
+        <section class="cards ">
+            <article class="card card--9 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-142-SSA1/SCFI-2014 </p>
+                    <h3 class="card__title "> Etiquetado de bebidas Alcohólicas</h3>
+                </div>
+            </article>
+            <article class="card card--10 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-186-SSA1/SCFI-2013 </p>
+                    <h3 class="card__title "> Etiquetado de Cacao, chocolate y productos similares, y derivados del cacao
+                    </h3>
+                </div>
+            </article>
+        </section>
+        <section class="cards ">
+            <article class="card card--11 ">
+                <div class="card__img "></div>
+                <a href="Servicios " class="card_link ">
+                    <div class="card__img--hover "></div>
+                </a>
+                <div class="card__info ">
+                    <p class="card__category "> NOM-189-SSA1/SCFI-2018 </p>
+                    <h3 class="card__title "> Etiquetado y envasado para productos de aseo de uso doméstico.</h3>
+                </div>
+            </article>
+        </section>
+    </div>
+
     <!--Offcanvas-->
     <div class="offcanvas offcanvas-end bg-dark" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
         <div class="offcanvas-header">
