@@ -710,7 +710,7 @@ div.servicios-inspeccion .container div.txto {
     .card__title {
         margin-bottom: 10px;
         font-family: 'Roboto Slab', serif;
-        font-size: 7px;
+        font-size: 9px;
     }
     .card:hover .card__img--hover {
         height: 100%;
