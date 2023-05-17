@@ -46,7 +46,7 @@
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://wa.me/message/ECFFKO55QMCEG1" role="button" data-mdb-ripple-color="dark" target="_blank">
                     <i class="bi bi-whatsapp"></i>
                 </a>
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:uni@kabale.com.mx" role="button" data-mdb-ripple-color="dark" target="_blank">
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:uni@uvkabale.com" role="button" data-mdb-ripple-color="dark" target="_blank">
                     <i class="bi bi-envelope"></i>
                 </a>
             </div>
