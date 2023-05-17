@@ -149,7 +149,7 @@
         </div>
     </div>
     <div class="container-fluid">
-        <p class="titulo"> Visión </p>>
+        <p class="titulo"> Visión </p>
         <div class="container contenido">
             <p>Ser una Unidad de Inspeccion que evalúe las diferentes Normas Oficiales Mexicanas e Internacionales en todos los ámbitos, haciendo equipo con los Sectores Público y Privado, constituirnos como la mejor opción en el mercado para nuestros clientes y colaboradores, con total respeto y responsabilidad social.
             </p>
